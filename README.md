@@ -32,9 +32,9 @@
 
 ![Gráfico de Barras: Top 10 Órgãos com Maiores Gastos](img/top10.png)
 
-#### **Padrões de Consumo:** Mapeamento do perfil de uso dos órgãos superiores, cruzando o volume financeiro com o tipo de despesa realizada.
+#### **Padrões de Consumo:** Mapeamento do perfil de uso dos órgãos superiores, cruzando o volume financeiro com o tipo de despesa realizada. (Ex. Ministério da Justiça e Segurança Pública)
 
-![Gráfico: Padrão de Consumo por Órgão(Ex. Ministério da Justiça e Segurança Pública)](img/newplot.png)
+![Gráfico: Padrão de Consumo por Órgão](img/newplot.png)
 
 ---
 
@@ -54,3 +54,4 @@
 2. O arquivo de dados original (`dataframe.csv`) já está incluso no repositório para facilitar a execução.
 
 3. Abra e execute o notebook `analise.ipynb` para reproduzir a limpeza, o tratamento de dados e a geração dos insights.
+
