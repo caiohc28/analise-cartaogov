@@ -1,4 +1,4 @@
-﻿# Análise de Gastos: Cartões Corporativos do Governo Federal
+﻿# Análise de Gastos: Cartões Corporativos do Governo Federal (Janeiro/2026)
 
 ### Este projeto apresenta uma Análise Exploratória de Dados (EDA) com foco no uso de recursos públicos por meio do Cartão de Pagamento do Governo Federal (CPGF). O estudo aplica técnicas de tratamento de dados para transformar dados brutos governamentais em insights estratégicos.
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-### O objetivo central desta análise é auditar e entender o comportamento de consumo estatal, respondendo a duas perguntas fundamentais:
+### O objetivo central desta análise é auditar e entender o comportamento de consumo estatal durante o mês de janeiro de 2026, respondendo a duas perguntas fundamentais:
 
 * Quais órgãos governamentais apresentam os maiores volumes de gastos?
 * Existe um padrão identificável nos gastos por tipo de despesa em cada órgão?
@@ -54,5 +54,6 @@
 2. O arquivo de dados original (`dataframe.csv`) já está incluso no repositório para facilitar a execução.
 
 3. Abra e execute o notebook `analise.ipynb` para reproduzir a limpeza, o tratamento de dados e a geração dos insights.
+
 
 
