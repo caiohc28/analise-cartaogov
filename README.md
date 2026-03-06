@@ -41,7 +41,7 @@
 ## 🛠️ Metodologia e Fonte de Dados
 
 * **Fonte dos Dados:** Portal da Transparência da Controladoria-Geral da União (CGU).
-* **Processamento de Dados:** Tratamento de Big Data para limpeza de valores nulos, estruturação de categorias e agregação das bases originais.
+* **Processamento de Dados:** Tratamento de dados para limpeza de valores nulos e agregação das bases originais.
 * **Análise Exploratória:** Geração de estatísticas descritivas para identificar tendências de gastos públicos e distribuição de verbas.
 
 ---
@@ -54,4 +54,5 @@
 2. O arquivo de dados original (`dataframe.csv`) já está incluso no repositório para facilitar a execução.
 
 3. Abra e execute o notebook `analise.ipynb` para reproduzir a limpeza, o tratamento de dados e a geração dos insights.
+
 
